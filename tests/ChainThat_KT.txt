@@ -1,0 +1,20 @@
+BPA (Beyond Policy administration) -> Creates Policies.
+works for fusion, clover..
+
+Basic insurance types ->
+Carries - > Investor (non tech fellows)
+Brokers -> provide policy to customer, 
+mgs -> create the policy and distrubs.
+
+chainthat -> BPA -> specifc country, BNMP-> for all countries
+Currently working for BPA -> clover -> Austrialn customer.
+
+
+bispack, Home and Motor are the insurnance Products.
+
+Configuration team will assign the roles.
+
+MGS -> Underwriter portal -> 
+
+bispack -> commerical 
+ create a policy -> Policy has the coverage
